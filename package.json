@@ -1,0 +1,22 @@
+{
+  "name": "hashmoji",
+  "version": "0.0.2",
+  "main": "src",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balthazar/hashmoji.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/balthazar/hashmoji",
+  "keywords": [
+    "emoji",
+    "hash",
+    "crypto"
+  ]
+}
