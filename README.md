@@ -2,6 +2,8 @@
 
 > Transform a string into an emoji representation
 
+Supports 3360+ emojis per Unicode 13 spec.
+
 ### Install
 
     yarn add hashmoji
@@ -13,11 +15,11 @@ Consistent API on both node through the crypto module and browsers with Web Cryp
 ```js
 const hashmoji = require('hashmoji')
 
-await hashmoji('hashmoji')
-🙍🏼‍♂️
+await hashmoji('sushi')
+🕴🏼
 
-await hashmoji('haha', 5)
-💢🪀🍥🧴👨🏼‍⚕️
+await hashmoji('balthazar', 5)
+🇹🇱👵🏻🚶‍♂️♂️🚴🏻‍♂️
 ```
 
 ##### Mentions

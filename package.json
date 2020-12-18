@@ -1,6 +1,6 @@
 {
   "name": "hashmoji",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "src",
   "scripts": {
     "test": "ava"
